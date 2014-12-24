@@ -26,7 +26,6 @@ module.exports = (robot) ->
         msg.send 'Hmm...not sure'
 
 getMessages = (result) ->
-  console.log result
   answers = []
   for resultItem in result
     answer = []
