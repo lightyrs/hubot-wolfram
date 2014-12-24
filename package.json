@@ -21,7 +21,7 @@
   "homepage": "https://github.com/notpeter/hubot-wolfram",
   "dependencies": {
     "request": "^2.1",
-    "libxmljs": "^0.8.1",
+    "libxmljs": "~0.8.1",
     "wolfram": "^0.3.0"
   }
 }
